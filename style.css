@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+   padding-top: 50px;
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 60vh;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+}
+
+a{
+    margin: 20px 0px;
+}
+
+button{
+    width: 80px;
+    height: 40px;
+  
+}
+
